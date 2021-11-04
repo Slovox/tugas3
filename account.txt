@@ -1,0 +1,7 @@
+First Name: sasa
+Last Name: sasa
+A/c No: 123456
+
+Deposit: 10000
+Deposit: 20000
+Withdrawal: 10000
